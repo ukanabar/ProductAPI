@@ -1,0 +1,17 @@
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\ProductsApi.Test.deps.json
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\ProductsApi.Test.runtimeconfig.json
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\ProductsApi.Test.runtimeconfig.dev.json
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\ProductsApi.Test.dll
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\obj\Debug\netcoreapp2.1\ProductsApi.Test.csprojAssemblyReference.cache
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\obj\Debug\netcoreapp2.1\ProductsApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\obj\Debug\netcoreapp2.1\ProductsApi.Test.AssemblyInfoInputs.cache
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\obj\Debug\netcoreapp2.1\ProductsApi.Test.AssemblyInfo.cs
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\ProductsApi.Test.pdb
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\obj\Debug\netcoreapp2.1\ProductsApi.Test.dll
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\obj\Debug\netcoreapp2.1\ProductsApi.Test.pdb
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\ProductApi.dll
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\bin\Debug\netcoreapp2.1\ProductApi.pdb
+C:\Users\utkar\source\repos\ProductApi\ProductsApi.Test\obj\Debug\netcoreapp2.1\ProductsApi.Test.csproj.CopyComplete

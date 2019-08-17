@@ -1,0 +1,15 @@
+C:\Users\utkar\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.deps.json
+C:\Users\utkar\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.runtimeconfig.json
+C:\Users\utkar\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.runtimeconfig.dev.json
+C:\Users\utkar\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.dll
+C:\Users\utkar\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.pdb
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.csprojAssemblyReference.cache
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorAssemblyInfo.cache
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorAssemblyInfo.cs
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.AssemblyInfoInputs.cache
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.AssemblyInfo.cs
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorTargetAssemblyInfo.cache
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.dll
+C:\Users\utkar\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.pdb

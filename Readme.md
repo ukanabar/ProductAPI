@@ -43,4 +43,28 @@ GO
 
 It is a best practise to handle uniqueness of column using unique index as it avoids race condition and other concurrency issue
 
-There is a docker file to and one can deploy ProductAPI using docker too
+There is a docker file to and one can deploy ProductAPI using docker too.
+
+Running sql server on docker:
+
+SQL Server on Docker:
+docker pull mcr.microsoft.com/mssql/server:2017-latest
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=<YourStrong@Passw0rd>" \
+   -p 1433:1433 --name sql1 \
+   -d mcr.microsoft.com/mssql/server:2017-latest
+   
+Example:
+
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Test.123" -p 1433:1433 --name sql1 -d mcr.microsoft.com/mssql/server:2017-latest
+
+Use below command to get container ip:
+
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' container_name_or_id
+
+Use that ip in connection string:
+
+"ProductDBConnection": "Server=172.17.0.2,1433;Database=Product;User Id=sa;Password=Test.123;"
+
+Then simply run application on docker using visual studio
+
+
